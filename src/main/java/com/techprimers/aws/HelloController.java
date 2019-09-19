@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello RSA 2";
+        return "AWS";
     }
 }
