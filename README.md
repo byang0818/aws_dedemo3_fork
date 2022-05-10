@@ -10,6 +10,6 @@
 
 ## REST Endpoints
 - Actuator endpoints are enabled under `/actuator/*`
-- Sample `HelloController` enabled under `/hello/*`
+- Sample `HelloController` enabled under `/hello`
 
 #
